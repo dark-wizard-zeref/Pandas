@@ -11,6 +11,8 @@ A small learning repo containing structured Pandas practice notebooks covering t
 - `Pandas_Class5.ipynb` — Sorting and basic statistics (sort_values, sort_index, describe, mean/median/mode, value_counts)  
 - `Pandas_Class6.ipynb` — GroupBy operations and aggregations (groupby, aggregate functions, multiple aggregations, reset_index)  
 - `Pandas_Class7.ipynb` — Merging, joining, and concatenation (merge, join, concat, inner/outer/left/right joins)
+- `Pandas_Class8.ipynb` — Working with time series (datetime conversion, date ranges, resampling, rolling windows, shifting)  
+- `Pandas_Class9.ipynb` — Applying functions to data (apply, map, applymap, lambda functions, row-wise vs column-wise operations)
 
 ## Requirements
 
